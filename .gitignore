@@ -1,0 +1,10 @@
+# Visual Studio local state
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Python
+__pycache__/
+*.py[cod]
